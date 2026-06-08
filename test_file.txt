@@ -1,0 +1,2 @@
+Hello FTPing!
+This file was sent using ICMP Ping packets.
